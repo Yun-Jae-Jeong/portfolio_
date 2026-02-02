@@ -5,7 +5,7 @@
 - Phone: 010-5145-8306
 
 ## 기술 스택
-- Unity | UGUI | Addresasable | WebSocket/API | Spine2D | Cinemachine | Azure Kinect | Xcode/Android 빌드
+- Unity | OpenGL | UGUI | Addresasable | WebSocket/API | Spine2D | Cinemachine | Azure Kinect | Xcode/Android 빌드
 
 ## 주요 프로젝트
 ### korail 차량 정비 메타버스
