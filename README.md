@@ -20,7 +20,7 @@
 
 ## META GYM
 - 프로젝트 소개  : 근골격 측정 및 운동 솔루션 
-- 사용기술       : Scene 관리 | Addressable 최적화 | Azure kinect 모션 인식 | Installer
+- 사용기술       : Scene 관리 | Addressable 최적화 | Azure kinect 모션 인식 | Inno Setup
 - 영상 링크      : https://youtube.com/shorts/JJeJdetJC0Q?si=0DZ6pGP3I-wW1nKU
 
 ## Ashi
