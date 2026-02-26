@@ -26,7 +26,7 @@
 ## Ashi
 - 프로젝트 소개  : 2D 플랫포머 인디 게임
 - 사용기술       : Cinemachin | Spine2D | 물리 구현 | 전체 프로그래밍
-- 영상 링크      : https://youtube.com/shorts/JJeJdetJC0Q?si=0DZ6pGP3I-wW1nKU
+- 영상 링크      : https://youtu.be/TICNIR-kgGI
 - Steam: [store.steampowered.com/app/1104150](https://store.steampowered.com/app/1104150/Ashi/)
 
 ## Dragon Ace Casino
